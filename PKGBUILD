@@ -15,7 +15,7 @@ arch=('i686' 'x86_64')
 install=doom3.install
 source=('doom3.launcher' 'doom3-dedicated.launcher' 'doom3.desktop' \
 'doom3.launcher64' 'doom3-dedicated.launcher64' 'doom3.png' \
-"http://slashbunny.com/aur/doom3/doom3-linux-$pkgver.x86.run")
+"https://aur.slashbunny.com/doom3/doom3-linux-$pkgver.x86.run")
 provides=('doom3')
 conflicts=('doom3')
 sha256sums=('ea9fe17fdb19cfe8a22e2b7859093f7a76eeaa51fd2571507b6dc37462515f21'
